@@ -1,4 +1,4 @@
-Para iniciar el proyecto debemos :
+Para iniciar el proyecto debemos escribir en la terminal  :
 
-- npm install
-- npm run dev
+1- npm install
+2- npm run dev
